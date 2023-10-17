@@ -1,0 +1,76 @@
+<style>
+</head>
+<body>
+ {
+            padding: 22px;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            font-size: 16px;
+        }
+        header {
+    text-align: center; /* Center the text horizontally */
+    padding: 20px 0; /* Add padding to create space at the top and bottom of the header */
+    background-color: #333; /* Background color for the header */
+    color: #ffffff; /* Text color for the header */
+    margin: 0; /* Remove any margin */
+}
+h1 {
+    font-size: 32px; /* Adjust the font size as needed */
+    margin: 0; /* Remove any margin around the title */
+    color: #ffffff; /* Text color for the heading (white) */
+}
+
+
+        h1 {
+            font-size: 35px;
+            color: #800000;
+        }
+
+        h2 {
+            font-size: 24px;
+            color: #00008B;
+        }
+
+        h3 {
+            color: #00008B;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 22px;
+        }
+         p {
+            font-size: 15px;
+            margin-bottom: 11px;
+        }
+
+        strong {
+            font-weight: bold;
+        }
+
+        a {
+            color: #800080;
+        }
+
+        .literature-review {
+            text-align: left;
+            margin-left: 20px;
+        }
+
+        .literature-review ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+
+        .literature-review li {
+            margin-bottom: 5px;
+        }
+
+        .literature-review li {
+            margin-bottom: 5px;
+        }
+         footer {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
